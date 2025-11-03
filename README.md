@@ -15,8 +15,6 @@
 
 ## Road Map
 
-## Schedule & Division of Work
-
 ## Functionality & Feature
 
 ## Code Structure & Organization
