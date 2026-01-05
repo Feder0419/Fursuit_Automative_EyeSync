@@ -19,3 +19,5 @@
 4. How should we implement central control unit. Find best chipset for our project.
 5. Detect viewer's motion?
 6. Find out the practicality of using app to control.
+
+Next meeting on 1.11? Since all of us start working/semester on 1.12
