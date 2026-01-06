@@ -20,7 +20,7 @@
 5. Find out the practicality of using app to control.
 6. Possible solution to let fursuiter know which pattern is being displayed.
 7. It would be cool if the display shows some special animation during special interaction. Like booping and hugging, the eye display would play an animation showing happy expression. Find out how these special interaction could be detected.
-8. Look into the possiblity of stabalizer function descriped in questions_and_issues.
+8. Look into the possibility of stabilizer function described in questions_and_issues.
 
 Next meeting on 1.11? Since all of us start working/semester on 1.12
 
