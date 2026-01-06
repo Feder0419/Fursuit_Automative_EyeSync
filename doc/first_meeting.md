@@ -15,11 +15,10 @@
 ## Current Assignment:
 1. Logical topology script
 2. The possible solution for LED eye and picture shuffling ability. How they can be implemented.
-
-4. How should we implement central control unit. Find best chipset for our project.
-5. Detect viewer's motion?
-6. Find out the practicality of using app to control.
-7. Possible solution to let fursuiter know which pattern is being displayed.
+3. How should we implement central control unit. Find best chipset for our project.
+4. Detect viewer's motion?
+5. Find out the practicality of using app to control.
+6. Possible solution to let fursuiter know which pattern is being displayed.
 
 Next meeting on 1.11? Since all of us start working/semester on 1.12
 
