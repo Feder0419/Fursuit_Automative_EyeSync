@@ -13,12 +13,14 @@
     can even extend more advance function if previous function is successful.
 
 ## Current Assignment:
-1. Logical topology script
-2. The possible solution for LED eye and picture shuffling ability. How they can be implemented.
+1. Logical topology script.
+2. The possible solution for LED eye and picture shuffling ability. How they can be implemented. Please refer to questions_and_issues documentation for display's detailed requirement.
 3. How should we implement central control unit. Find best chipset for our project.
-4. Detect viewer's motion?
+4. Detect viewer's motion? Is it possible and practical?
 5. Find out the practicality of using app to control.
 6. Possible solution to let fursuiter know which pattern is being displayed.
+7. It would be cool if the display shows some special animation during special interaction. Like booping and hugging, the eye display would play an animation showing happy expression. Find out how these special interaction could be detected.
+8. Look into the possiblity of stabalizer function descriped in questions_and_issues.
 
 Next meeting on 1.11? Since all of us start working/semester on 1.12
 
