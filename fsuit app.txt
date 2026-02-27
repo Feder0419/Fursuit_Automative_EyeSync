@@ -1,0 +1,6 @@
+自带一个网页服务器，局域网连上后网页端修改，通用性最好
+https://x.com/DeerisLeGris/status/1871193948330566084/video/1
+
+蓝牙app：咸鱼
+
+swift：https://github.com/stef1949/LumiFur
